@@ -1,8 +1,8 @@
 {
   "token": "TOKEN",
-  "minPlayers": 4,
+  "minPlayers": 5,
   "maxPlayers": 40,
-  "startTime": 50,
+  "startTime": 30,
   "chooseTimeout": 30,
   "timeBetweenRounds": 10,
   "allowedRoleId": "ID",
